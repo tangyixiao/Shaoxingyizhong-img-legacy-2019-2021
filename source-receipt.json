@@ -2,26 +2,52 @@
   "repo": "tangyixiao/Shaoxingyizhong-img-legacy-2019-2021",
   "sourceBranch": "main",
   "sourceCommit": null,
+  "designVersion": 3,
+  "direction": {
+    "visualConcept": "鼠尾草绿、浅卡其与铝灰的过渡年代年册：户外协作照片作折叠长页，花艺展厅图以方形插图居中，课堂合影成为底部横页；用接近真实照片的柔和绿色建立身份。事实边界：2019–2021 历史资源分片，不能把三张样本解释成一项连贯活动。",
+    "layout": "editorial",
+    "palette": {
+      "light": {
+        "bg": "#DDE0C9",
+        "surface": "#F0EEDB",
+        "ink": "#343D2B",
+        "muted": "#5a634a",
+        "accent": "#556844"
+      },
+      "dark": {
+        "bg": "#202619",
+        "surface": "#313C23",
+        "ink": "#EEF0D9",
+        "muted": "#b1bd91",
+        "accent": "#bfd293"
+      }
+    },
+    "threeConcept": "Three.js 制作鼠尾草布封年册与折叠拉页，方形照片插在中缝的可取出纸袋中；物件可旋转但图片不弯曲变形到难以阅读。",
+    "distinctiveInteraction": "拉页把手选择年份路径分组，独立照片袋打开原图；交互只覆盖现有样本，未列年份不补占位新闻。"
+  },
   "media": [
     {
       "src": "assets/media/photo-1.webp",
       "alt": "操场集体活动，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-legacy-2019-2021/blob/main/UploadFiles/UploadFiles/202011/2020111915250297.jpg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-legacy-2019-2021/blob/main/UploadFiles/UploadFiles/202011/2020111915250297.jpg",
+      "path": "UploadFiles/UploadFiles/202011/2020111915250297.jpg"
     },
     {
       "src": "assets/media/photo-2.webp",
       "alt": "展陈交流，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-legacy-2019-2021/blob/main/UploadFiles/UploadFiles/201904/2019042310210507.jpg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-legacy-2019-2021/blob/main/UploadFiles/UploadFiles/201904/2019042310210507.jpg",
+      "path": "UploadFiles/UploadFiles/201904/2019042310210507.jpg"
     },
     {
       "src": "assets/media/photo-3.webp",
       "alt": "教室学习活动，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-legacy-2019-2021/blob/main/UploadFiles/UploadFiles/202006/2020060115421433.jpg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-legacy-2019-2021/blob/main/UploadFiles/UploadFiles/202006/2020060115421433.jpg",
+      "path": "UploadFiles/UploadFiles/202006/2020060115421433.jpg"
     }
   ],
   "skills": [
     "baoyu-design",
     "design-taste-frontend"
   ],
-  "design": "content-first source/product/photography; no rejected template or faux 3D"
+  "flagshipModel": null
 }
